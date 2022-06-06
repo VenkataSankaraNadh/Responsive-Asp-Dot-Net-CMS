@@ -16,4 +16,4 @@ Install:
 •	Run CassiniDev4 – available in this pack
 •	Image inside how to run?
 
-Contact for Support: avsnath @ gmail.com
+Contact for Support: [avsnath @ gmail.com]
