@@ -1,6 +1,8 @@
 # CMS-Asp Dot Net
 CMS – Asp Dot Net - Simple - Easy - Light Weight - NO Database ony XML
 
+"Good Design is Good Business"
+
 CMS – Asp Dot Net
 •	Light Weight
 •	Fast Loading 
@@ -19,3 +21,13 @@ Install:
 Contact for Support: [avsnath @ gmail.com]
 
 Live Hosting in Shared Server: https://herber.bosxi.biz/default.aspx
+
+Some other template integrated CMS sites:
+
+Glory
+https://glory.bosxi.biz/default.aspx
+
+Davis
+https://devis.bosxi.biz/default.aspx
+
+
