@@ -3,7 +3,7 @@ Responsive Asp Dot Net CMS –  Simple - Easy - Light Weight - NO Database ony X
 
 "Good Design is Good Business"
 
-CMS – Asp Dot Net
+CMS – Responsive Asp Dot Net
 •	Light Weight
 •	Fast Loading 
 •	Fully Responsive CMS
